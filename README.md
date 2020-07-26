@@ -4,8 +4,6 @@
 
 **I love Android and Flutter development   :blue_heart:**
 
-### Hi there 👋
-
 <!--
 **Abiri99/Abiri99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
